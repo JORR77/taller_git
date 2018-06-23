@@ -8,4 +8,4 @@ Repositorio de ejemplo para el taller de git
 
 
 ###Participantes
-Jorge RR
+JORR77
